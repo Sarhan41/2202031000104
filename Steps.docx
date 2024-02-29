@@ -1,0 +1,33 @@
+# Task 1: Assignment 1 Steps
+
+1. **Folder Creation:**
+   - Created a folder on my local machine named after my enrollment number: `2202031000104`.
+
+2. **Assignment Subfolders:**
+   - Within the `2202031000104` folder, established two subfolders: `Assignment_1` and `Assignment_2`.
+
+3. **Figma Files Download:**
+   - Downloaded Figma files and stored them in the `Assignment_1` folder.
+
+4. **Website Development:**
+   - Utilizing Visual Studio Code (VS Code), developed an HTML & CSS website in the `Assignment_2` folder based on the Figma design.
+
+5. **GitHub Repository Creation:**
+   - Surfaced GitHub.com and created a new repository named after my enrollment number.
+
+6. **GitHub Commands:**
+   - Accessed GitHub commands provided upon repository creation for pushing code to GitHub.
+
+7. **Terminal Commands:**
+   - Opened the terminal in VS Code and executed the following commands:
+     
+     git init
+     git add ./
+     git commit -m "First commit"
+     git branch -M main
+     git remote add origin https://github.com/Sarhan41/2202031000104.git
+     git push -u origin main
+     ```
+   
+8. **Project Publication:**
+   - Utilized commands found in the GitHub repository itself to publish the entire project on my GitHub repository.

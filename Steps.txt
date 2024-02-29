@@ -1,9 +1,0 @@
-All of the Steps for Task 1 of Assignment 1.
-1. Created folder in my local machine named my enrollment number 2202031000104.
-2. Created two folder in that folder called Assignment_1 and Assignment_2.
-3. Downloaded figma files in Assignment_1 folder.
-4. Opened Assignment_2 folder in VS Code and made HTML & CSS Website related to that figma file.
-5. Once Assignment_1 and Assignment_2 folder tasks were done, surfed Github.com and Created new repositry there with name of my enrollment number.
-6. After Creating repositry I was able to see github commands there for pushing my code to github.
-7. I opened terminal in VS code and used this commands.
-  
